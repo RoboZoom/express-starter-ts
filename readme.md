@@ -32,7 +32,7 @@ Once the code is local to your machine:
 - Choose 'Open Folder'
 - Choose the folder where this code is saved
 - Go to File > Extensions
-- Ensure the following are installed
+- Install the following extensions:
   - ESLint
   - Jest
   - Jest Runner
