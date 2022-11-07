@@ -33,16 +33,16 @@ Once the code is local to your machine:
 - Choose the folder where this code is saved
 - Go to File > Extensions
 - Ensure the following are installed
-  -- ESLint
-  -- Jest
-  -- Jest Runner
-  -- Prettier ESLint
+  - ESLint
+  - Jest
+  - Jest Runner
+  - Prettier ESLint
 
 Once these extensions are configured, install your dependencies:
 
 - Open a Terminal
-  -- Open the Terminal menu item from the top menu
-  -- Select 'New Terminal'
+  - Open the Terminal menu item from the top menu
+  - Select 'New Terminal'
 - Run `yarn -v`, ensure you receive `1.22.x`
 - Run `yarn`, you should observe your dependencies being installed.
 
